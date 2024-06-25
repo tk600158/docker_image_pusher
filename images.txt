@@ -1,2 +1,2 @@
 homeassistant/home-assistant:latest
-registry.cn-hangzhou.aliyuncs.com/tk600158/
+jellyfin/jellyfin
